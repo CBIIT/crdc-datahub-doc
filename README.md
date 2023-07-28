@@ -16,6 +16,8 @@ The CRDC Data Hub application consists of the following parts:
 - [Authentication (AuthN) service](https://github.com/CBIIT/crdc-datahub-authn)
 - [Authorization (AuthZ) service](https://github.com/CBIIT/crdc-datahub-authz)
 - [Backend service](https://github.com/CBIIT/crdc-datahub-backend)
+- MongoDB
+  - Data store
 - [NIH Login](https://auth.nih.gov/docs)
   - OAuth 2.0
 
